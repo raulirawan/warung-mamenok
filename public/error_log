@@ -1,0 +1,11 @@
+[20-Jan-2023 09:33:03 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ravelamy/warungmamenok.ravela.my.id/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[20-Jan-2023 09:38:07 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ravelamy/warungmamenok.ravela.my.id/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[20-Jan-2023 09:38:12 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ravelamy/warungmamenok.ravela.my.id/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[20-Jan-2023 09:38:14 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ravelamy/warungmamenok.ravela.my.id/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[20-Jan-2023 14:47:02 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ravelamy/warungmamenok.ravela.my.id/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[20-Jan-2023 14:47:04 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ravelamy/warungmamenok.ravela.my.id/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[20-Jan-2023 14:47:46 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ravelamy/warungmamenok.ravela.my.id/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[20-Jan-2023 14:48:14 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ravelamy/warungmamenok.ravela.my.id/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[20-Jan-2023 14:48:14 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ravelamy/warungmamenok.ravela.my.id/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[20-Jan-2023 14:48:14 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ravelamy/warungmamenok.ravela.my.id/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
+[20-Jan-2023 14:48:15 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ravelamy/warungmamenok.ravela.my.id/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 40
