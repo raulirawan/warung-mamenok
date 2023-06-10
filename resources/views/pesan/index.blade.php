@@ -35,8 +35,8 @@
             @foreach ($data_kasir as $row)
                 <div class="col-md-3">
                     <a href="#" id="makanan" onclick="getValue(<?= $row->id ?>)">
-                        <div class="card id" style="width:;">
-                            <img src="{{ asset('upload/' . $row->gambar) }}" class="card-img-top" alt="...">
+                        <div class="card id mt-2">
+                            <img src="{{ asset($row->gambar) }}" class="card-img-top" alt="...">
                             <div class="card-body text-center">
                                 <h4 id="myText<?= $row->id ?>">{{ $row->nama_menu }}</h4>
                                 <p id="harga<?= $row->id ?>">{{ $row->harga }}</p>
