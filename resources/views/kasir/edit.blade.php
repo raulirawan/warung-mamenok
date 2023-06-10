@@ -5,13 +5,13 @@
     @if(session('sukses'))
     <div class="alert alert-success" role="alert">
         {{session('sukses')}}
-    </div>        
+    </div>
     @endif
     <div class="row">
            <div class="col-md-6 offset-3">
                <br>
-                <h1>Edit Menu</h1>  
-           <form action="/kasir/{{$kasir->id}}/update" method="POST">
+                <h1>Edit Menu</h1>
+           <form action="/kasir/{{$kasir->id}}/update" method="POST" enctype="multipart/form-data">
                     {{ csrf_field() }}
                         <div class="form-group">
                         <div class="gambar">
@@ -25,7 +25,7 @@
                             <label for="exampleFormControlTextarea1">harga</label>
                         <textarea class="form-control" name="harga" id="exampleFormControlTextarea1" rows="3">{{$kasir->harga}}</textarea>
                         </div>
-                    
+
                         <div class="float-right">
                                 <a href="/kasir/" class="btn btn-secondary">Back</a>
                                 <button type="submit" class="btn btn-danger">Update</button>
