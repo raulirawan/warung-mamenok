@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>Warung Mamenok</title>
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
@@ -34,6 +34,10 @@
                 <a class="navbar-brand" href="{{ url('/') }}">
                     Warung Mamenok
                 </a>
+                <a class="navbar-brand" href="{{ url('/') }}">
+                    | Kontak : 0858-1471-5642
+                </a>
+
                 <button class="navbar-toggler" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                     aria-label="{{ __('Toggle navigation') }}">
